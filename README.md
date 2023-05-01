@@ -2,7 +2,7 @@
 
 ## O que é o Unbound?
 
-O Unbound é um servidor DNS (Domain Name System) recursivo, o que significa que ele é capaz de buscar informações DNS em nome de seus clientes (usuários finais) para resolver nomes de domínio em endereços IP. Ele é projetado para ser seguro, rápido e escalável.
+O Unbound é um servidor DNS recursivo que tem a capacidade de pesquisar informações de DNS em nome de seus clientes, permitindo que nomes de domínio sejam traduzidos em endereços IP. Projetado para ser rápido, seguro e escalável, o Unbound é uma solução de software livre que é frequentemente usado para melhorar a privacidade e segurança online. Além disso, ele possui uma arquitetura modular e pode ser configurado para suportar várias extensões, tornando-o altamente personalizável e flexível.
 
 Algumas das principais características e funcionalidades do Unbound incluem:
 

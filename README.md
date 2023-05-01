@@ -138,7 +138,7 @@ O Unbound pode ser configurado para atender localmente a determinadas zonas. Iss
 
 No exemplo, é configurado o nome de host fileserver.home.lan resolvendo para o endereço IP 10.2.2.1. Além disso, é configurada uma pesquisa reversa para permitir que 10.2.2.1 resolva de volta para o nome do host fileserver.home.lan.
 
-Isso pode ser feito no arquivo /etc/unbound/unbound.conf adicionando as seguintes linhas:
+Isso pode ser feito adicionando as seguintes linhas no arquivo /etc/unbound/unbound.conf.d/unbound.conf:
 
 ```bash
 
